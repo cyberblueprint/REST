@@ -1,0 +1,19 @@
+DJANGO REST FRAMEWORK (DRF)
+To develop APIs faster and smarter 
+-> Foreign keys
+-> Tokens
+-> CBVs to Generic views
+
+- Routers & Viewsets
+- Token Authentication for Mobile Devices
+- Permissions & permissions per view (On Token)
+- Relationships (Foreign keys?)
+
+- Setup
+- Model Serialization are like ModelForm: 
+Model instance into JSON and viceversa
+Can generate fields for the models 
+Generated validators such as uniquetogether validator specified on the model
+- ListCreateCourse(APIView): -> GET/POST methods 
+- CRUD -> Update/Delete (Generics Views intro)
+- Generic views
